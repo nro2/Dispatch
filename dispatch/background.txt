@@ -1,0 +1,114 @@
+"Well?" Goliss smiles at you from across the table in the Barsoom
+Lounge. "Thanks to you, we did it. We stopped whatever that virus thing was,
+or I guess it was a bacteria thing. Your sequence finder worked
+perfectly. Those guys in biomed can't stop telling me how amazing it
+was!". She smiles again and then takes a sip from her tea. The Martian tea
+plants are just now starting to produce some decent leaves so Martian tea is
+the latest craze at all of the stations.
+
+"But biomed isn't the only one to notice your skill. It turns out the Van
+Halen wants to talk to you about their emergency dispatch system. And, well,
+they've asked me to work with you to see if we can't fix the problem." She leans
+forward with a glint in her eye. "There's a rumor that if we are successful
+with this, I'll get promoted to Van Halen Director! And I'm bringing you with
+me!"
+
+Leanning back, you sip your own cup of Martian tea. It's got a unique, but
+good, flavor. Visions of working at the central headquarters fill your
+head. No longer stuck working on boring number crunching or for that stupid
+Amin guy. You'd get to work on the leading software everywhere on the
+planet. In fact, you'd even get to create and launch your own projects. You
+grin despite trying to keep a calm demeanor.
+
+"The emergency system? What sort of problems are we talking about?"
+
+"I think it's just an efficiency problem. Ever since landing, any emergency
+requests from the various stations could be handled by hand. But with the
+population increases, Van Halen says they are getting several hundred requests
+per day now. They can't sort through them and respond appropriately quickly
+enough. They want a system that will handle the dispatches automatically."
+
+"I'd be writing their emergency dispatch software?"
+
+"Not quite yet. They first want a simulation, just to see how it will
+work. They said they can send me the system constraints and some sample data
+to work with."
+
+This sounds pretty good to you. It is definitely more interesting than the
+work you have been doing. You nod to Goliss. "Yep, let's do this. By the way,
+if you do get that director job, what will you do with Williams?"
+
+Goliss's face sours for a second then a dangerous smiles spreads across
+it. "Well, I can guarantee you that he won't be happy. I've got some ideas..."
+
+You shake your head with a smirk. "He crossed the wrong person. I can see
+that."
+
+You both stand up from the table and head to the lift. Goliss explains that
+she'll be sending you the data files. You promise her that you'll have an
+initial draft of the program finished in a few days.
+
+When you get back to your work desk you settle into your current boring
+assignment when Amin comes up to you. Amin Shashtar took over as your
+supervisor just two weeks ago and it hasn't been pleasant. He used to work for
+Williams but lost his job when Williams was demoted. He mostly blames that on
+you.
+
+"Taking a long break today, I see." he whines and sneers in your direction. "I
+saw that you were meeting with that nasty woman Goliss."
+
+You react with disgust. "I'm not hourly, you know. I don't have to check in
+for breaks. And who I meet with is my own business."
+
+"Yeah?" Amin rolls a chair right up to yours and slides into it. "But when
+you're not getting your job done, then it's my problem that I get to deal
+with."
+
+"Not getting my job done? What are you talking about?" You try to keep your
+voice low. "I've completed every assignment on time and with no errors."
+
+"That's not the way I see it." A dark look crosses Amin's eyes. "You are
+supposedly this crack programmer but all I see is a mediocre hack just getting
+by. Sure, you finish everything on the due date but if you were such hot
+stuff, you could do it earlier. So by my thinking, you're not getting your
+work done as fast as you could. Either that or your just lying to all of us
+about your skills. Which is it?"
+
+You looked shocked at Amin. "So you're saying that since I don't finish early,
+I'm not finishing on time?"
+
+"You're the one who said it." A snarky smile turns Amin's thin lip up at the
+corner of his mouth. "I mean, unless you've been faking it this whole time."
+Amin puts his palms on his thighs and straightens his shoulders. Even sitting
+at full height the chair looks too big for him. "I guess I'm just going to
+have to report you. Oh, and Bartos over there found some easter eggs in your
+code. Looks like you were trying to sabotage the life support system at
+Alabama."
+
+You glance over to Bartos's desk and he keeps his head down to avoid looking
+at you.
+
+"Are you serious?" You stop trying to keep your voice low. "You know full well
+that I didn't do any such thing!" You stand up and push your chair back. Amin
+also stands but his eyes are only at your chest level. A scowl is on his face
+and he pokes you in the chest with a finger.
+
+"You and Goliss are a disgrace! Always meddling around with other people's
+lives. You should have left us alone on Boston." He nearly spits the words
+out. "Now you will do your job here, and quickly, or I'll make sure you're
+finished on Mars." He moves his finger to point at the chair as if ordering
+you to sit back down.
+
+"Seriously? You think I take you seriously?" You look around the computer
+lab. Everyone else is awkwardly pretending not to notice the
+confrontation. You make a decision.
+
+"You know what? I'm quitting. You can find someone else to pretend to be the
+boss over. I'm done. And," you put your finger right into Amin's face, "and,
+and, well, I can't say. But a few weeks from now, things are going to be very
+different for you. Very different!"
+
+You storm out of the lab and slam the door on the way out. You hope that
+Goliss is right and she can get that Van Halen job.
+
+

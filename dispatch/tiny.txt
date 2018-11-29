@@ -1,0 +1,10 @@
+0: I have a flat tire. Please send help. You can find me at Kansas.
+1: I'm currently staying at Bon Jovi and my power is out.
+2: I live at Journey and my spouse is having trouble breathing.
+3: My son is having trouble breathing. I live at Alabama.
+4: My car broke. Please send help. You can find me at Chicago.
+5: My car won't start. Please send help. You can find me at Boston.
+6: I live at Chicago and my air conditioning stopped working.
+7: I'm in Survivor and my daughter passed out.
+8: My car is stalled. Please send help. You can find me at Journey.
+9: I'm in Survivor and my daughter passed out.

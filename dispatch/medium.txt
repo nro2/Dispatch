@@ -1,0 +1,1000 @@
+0: I have a flat tire. Please send help. You can find me at Kansas.
+1: I'm currently staying at Bon Jovi and my power is out.
+2: I live at Journey and my spouse is having trouble breathing.
+3: My son is having trouble breathing. I live at Alabama.
+4: My car broke. Please send help. You can find me at Chicago.
+5: My car won't start. Please send help. You can find me at Boston.
+6: I live at Chicago and my air conditioning stopped working.
+7: I'm in Survivor and my daughter passed out.
+8: My car is stalled. Please send help. You can find me at Journey.
+9: I'm in Survivor and my daughter passed out.
+10: I live at Alabama and there's a gigantic hole in the dome.
+11: My son is having a seizure. I'm at Kansas.
+12: I'm currently staying at Alabama and my pipes are leaking.
+13: My spouse fell and broke something. I'm at Alabama.
+14: I live at Alabama and I have a flat tire.
+15: I'm in Boston and my vehicle is dead.
+16: I'm in Kansas and my son fell and broke something.
+17: I'm currently staying at Alabama and my car won't start.
+18: I'm currently staying at Alabama and my power is out.
+19: I'm currently staying at Boston and my power is out.
+20: I'm in Journey and my vehicle is dead.
+21: I'm currently staying at Chicago and I broke a window.
+22: My son has a high fever. I'm in Survivor.
+23: I'm currently staying at Boston and the dome is falling down on all of us.
+24: I've had a car accident. Please send help. You can find me at Boston.
+25: I live at Bon Jovi and we've had a marsquake. Lava is coming out of the ground.
+26: My daughter is having trouble breathing. I'm currently staying at Alabama.
+27: I'm in Bon Jovi and my son fell and broke something.
+28: My spouse has a high fever. I live at Survivor.
+29: I'm currently staying at Bon Jovi and my son fell and broke something.
+30: I live at Kansas and my air conditioning stopped working.
+31: I'm currently staying at Survivor and I've had a car accident.
+32: I live at Journey and my spouse is having a seizure.
+33: I'm at Bon Jovi and my power is out.
+34: I'm currently staying at Alabama and my power is out.
+35: I'm currently staying at Bon Jovi and my spouse had an accident with a knife.
+36: My daughter is having a seizure. I live at Survivor.
+37: I live at Boston and my car is stalled.
+38: I've had a car accident. Please send help. You can find me at Boston.
+39: I've had a car accident. Please send help. You can find me at Alabama.
+40: I'm currently staying at Chicago and we've been struck by a meteorite.
+41: I'm in Boston and my car won't start.
+42: I'm currently staying at Chicago and my car is stalled.
+43: My daughter is having trouble breathing. I'm in Boston.
+44: My son has a high fever. I'm in Survivor.
+45: I'm currently staying at Survivor and my daughter passed out.
+46: I'm in Kansas and the dome is falling down on all of us.
+47: I'm currently staying at Alabama and my roof is leaking.
+48: I'm at Kansas and my son is having a seizure.
+49: I'm in Journey and my front door lock broke.
+50: I'm currently staying at Alabama and my daughter had an accident with a knife.
+51: I live at Boston and I have a flat tire.
+52: I'm in Alabama and my vehicle is stuck.
+53: I'm at Alabama and my air conditioning stopped working.
+54: I'm currently staying at Boston and my daughter has a high fever.
+55: My son is having a seizure. I'm in Alabama.
+56: I have a flat tire. Please send help. You can find me at Alabama.
+57: I'm currently staying at Kansas and my car broke.
+58: I'm at Kansas and my car is stalled.
+59: I live at Boston and I broke a window.
+60: I'm in Boston and I broke a window.
+61: My daughter is having trouble breathing. I live at Survivor.
+62: My daughter is having a seizure. I live at Boston.
+63: I'm at Survivor and the dome is falling down on all of us.
+64: I'm in Chicago and my son passed out.
+65: My son fell and broke something. I live at Survivor.
+66: I'm at Alabama and I've had a car accident.
+67: I'm currently staying at Journey and the dome is falling down on all of us.
+68: My vehicle is stuck. Please send help. You can find me at Journey.
+69: I live at Bon Jovi and my vehicle is dead.
+70: My spouse is having a seizure. I live at Alabama.
+71: I'm at Alabama and I broke a window.
+72: I live at Journey and my pipes are leaking.
+73: My spouse fell and broke something. I'm currently staying at Alabama.
+74: I'm at Chicago and I broke a window.
+75: I've had a car accident. Please send help. You can find me at Chicago.
+76: I'm currently staying at Boston and my roof is leaking.
+77: I'm in Alabama and we've been struck by a meteorite.
+78: I'm currently staying at Chicago and my daughter is having trouble breathing.
+79: My daughter is having a seizure. I live at Survivor.
+80: I'm in Journey and we've had a marsquake. Lava is coming out of the ground.
+81: I'm currently staying at Chicago and my vehicle is stuck.
+82: I'm in Kansas and there's a gigantic hole in the dome.
+83: I'm currently staying at Kansas and I have a flat tire.
+84: My spouse is having a seizure. I live at Kansas.
+85: I live at Survivor and my daughter passed out.
+86: My son is having trouble breathing. I'm currently staying at Boston.
+87: I'm at Chicago and my car won't start.
+88: My daughter is having trouble breathing. I'm at Alabama.
+89: I'm currently staying at Journey and my vehicle is stuck.
+90: I live at Chicago and my vehicle is dead.
+91: My son is having trouble breathing. I'm in Chicago.
+92: I'm at Alabama and the dome is falling down on all of us.
+93: My son fell and broke something. I'm currently staying at Chicago.
+94: I live at Journey and my spouse fell and broke something.
+95: I live at Bon Jovi and I have a flat tire.
+96: I live at Alabama and my vehicle is stuck.
+97: I live at Journey and my front door lock broke.
+98: My vehicle is dead. Please send help. You can find me at Survivor.
+99: I'm at Boston and my front door lock broke.
+100: I'm at Boston and my son is having trouble breathing.
+101: I live at Journey and we've had a marsquake. Lava is coming out of the ground.
+102: I live at Alabama and the dome is falling down on all of us.
+103: My car broke. Please send help. You can find me at Journey.
+104: I live at Chicago and my vehicle is stuck.
+105: I'm currently staying at Boston and my car is stalled.
+106: My car won't start. Please send help. You can find me at Boston.
+107: I'm currently staying at Chicago and my daughter is having a seizure.
+108: I'm currently staying at Journey and my son has a high fever.
+109: I'm currently staying at Bon Jovi and the dome is falling down on all of us.
+110: I'm in Chicago and my pipes are leaking.
+111: I'm currently staying at Bon Jovi and my spouse passed out.
+112: My vehicle is stuck. Please send help. You can find me at Alabama.
+113: My spouse is having trouble breathing. I'm at Bon Jovi.
+114: My vehicle is stuck. Please send help. You can find me at Survivor.
+115: I'm at Kansas and my roof is leaking.
+116: I live at Chicago and my daughter is having a seizure.
+117: I'm currently staying at Bon Jovi and I broke a window.
+118: I'm in Alabama and my power is out.
+119: My vehicle is dead. Please send help. You can find me at Survivor.
+120: My spouse fell and broke something. I'm currently staying at Alabama.
+121: I live at Chicago and my power is out.
+122: My daughter passed out. I'm at Boston.
+123: I'm currently staying at Alabama and I broke a window.
+124: I have a flat tire. Please send help. You can find me at Journey.
+125: I live at Alabama and my son fell and broke something.
+126: I've had a car accident. Please send help. You can find me at Journey.
+127: I have a flat tire. Please send help. You can find me at Bon Jovi.
+128: I live at Chicago and my car broke.
+129: I'm at Alabama and my roof is leaking.
+130: I'm in Chicago and my spouse is having trouble breathing.
+131: I live at Boston and my pipes are leaking.
+132: I'm in Alabama and my front door lock broke.
+133: I'm currently staying at Boston and my daughter is having a seizure.
+134: I live at Kansas and I broke a window.
+135: I'm currently staying at Alabama and my vehicle is dead.
+136: I'm in Chicago and the dome is falling down on all of us.
+137: I'm at Journey and my vehicle is dead.
+138: My car broke. Please send help. You can find me at Bon Jovi.
+139: I'm in Journey and my front door lock broke.
+140: My daughter is having a seizure. I live at Journey.
+141: I live at Chicago and my pipes are leaking.
+142: I'm at Boston and my air conditioning stopped working.
+143: I'm at Alabama and the dome is falling down on all of us.
+144: My son passed out. I'm at Chicago.
+145: My spouse had an accident with a knife. I'm in Chicago.
+146: I'm in Chicago and I have a flat tire.
+147: My daughter fell and broke something. I'm at Chicago.
+148: I'm in Boston and my son had an accident with a knife.
+149: I'm in Alabama and my son fell and broke something.
+150: I'm currently staying at Survivor and my daughter had an accident with a knife.
+151: I'm in Chicago and my spouse fell and broke something.
+152: I'm currently staying at Bon Jovi and my son passed out.
+153: I'm currently staying at Journey and my spouse is having trouble breathing.
+154: I'm in Journey and my daughter is having a seizure.
+155: My daughter fell and broke something. I live at Kansas.
+156: I'm at Bon Jovi and my daughter is having a seizure.
+157: My car won't start. Please send help. You can find me at Boston.
+158: My car broke. Please send help. You can find me at Chicago.
+159: I'm in Kansas and my car is stalled.
+160: I live at Journey and my car is stalled.
+161: I live at Survivor and we've been struck by a meteorite.
+162: My car broke. Please send help. You can find me at Alabama.
+163: I'm currently staying at Journey and my son is having trouble breathing.
+164: I'm currently staying at Bon Jovi and my power is out.
+165: I'm at Chicago and my daughter has a high fever.
+166: I'm currently staying at Alabama and we've had a marsquake. Lava is coming out of the ground.
+167: My daughter has a high fever. I'm in Boston.
+168: My son passed out. I'm in Kansas.
+169: I'm in Bon Jovi and my car is stalled.
+170: I'm currently staying at Survivor and my car broke.
+171: I live at Journey and my son fell and broke something.
+172: My daughter passed out. I'm in Chicago.
+173: I live at Survivor and I've had a car accident.
+174: I'm in Kansas and my daughter is having a seizure.
+175: I'm at Chicago and my vehicle is stuck.
+176: I'm currently staying at Journey and we've had a marsquake. Lava is coming out of the ground.
+177: My daughter had an accident with a knife. I'm currently staying at Bon Jovi.
+178: I live at Kansas and we've had a marsquake. Lava is coming out of the ground.
+179: I live at Alabama and I've had a car accident.
+180: I'm in Boston and my pipes are leaking.
+181: I'm currently staying at Boston and my front door lock broke.
+182: I'm currently staying at Alabama and my son is having a seizure.
+183: I live at Chicago and the dome is falling down on all of us.
+184: My son had an accident with a knife. I live at Alabama.
+185: My car won't start. Please send help. You can find me at Chicago.
+186: My son fell and broke something. I'm in Boston.
+187: I live at Bon Jovi and my son has a high fever.
+188: I live at Survivor and my vehicle is dead.
+189: My vehicle is dead. Please send help. You can find me at Survivor.
+190: My spouse passed out. I'm currently staying at Survivor.
+191: I'm at Chicago and my air conditioning stopped working.
+192: My daughter is having trouble breathing. I'm currently staying at Chicago.
+193: I live at Journey and I've had a car accident.
+194: My spouse fell and broke something. I'm at Boston.
+195: I'm at Alabama and my daughter fell and broke something.
+196: I'm in Survivor and I have a flat tire.
+197: My car is stalled. Please send help. You can find me at Boston.
+198: My son fell and broke something. I'm at Survivor.
+199: I'm at Chicago and my pipes are leaking.
+200: I live at Kansas and my vehicle is dead.
+201: I'm currently staying at Journey and my vehicle is dead.
+202: I'm at Boston and my roof is leaking.
+203: My daughter fell and broke something. I'm in Alabama.
+204: I'm at Bon Jovi and my son fell and broke something.
+205: I'm currently staying at Bon Jovi and my power is out.
+206: My spouse has a high fever. I'm at Chicago.
+207: I'm currently staying at Kansas and my car broke.
+208: My spouse is having trouble breathing. I'm currently staying at Survivor.
+209: I'm currently staying at Bon Jovi and we've been struck by a meteorite.
+210: I'm in Chicago and I broke a window.
+211: I'm at Survivor and my son passed out.
+212: I'm in Kansas and I have a flat tire.
+213: I live at Survivor and my car is stalled.
+214: I'm currently staying at Kansas and my car is stalled.
+215: I'm currently staying at Chicago and I've had a car accident.
+216: I'm currently staying at Survivor and my daughter passed out.
+217: My son passed out. I'm at Survivor.
+218: I live at Alabama and I broke a window.
+219: I'm in Bon Jovi and my spouse has a high fever.
+220: I'm at Chicago and my daughter fell and broke something.
+221: I live at Boston and my son has a high fever.
+222: My car won't start. Please send help. You can find me at Chicago.
+223: I'm in Alabama and my roof is leaking.
+224: I live at Survivor and my spouse fell and broke something.
+225: I'm in Journey and I've had a car accident.
+226: My spouse passed out. I'm currently staying at Survivor.
+227: My son is having trouble breathing. I'm currently staying at Survivor.
+228: I live at Bon Jovi and we've been struck by a meteorite.
+229: My vehicle is stuck. Please send help. You can find me at Kansas.
+230: I'm at Chicago and my pipes are leaking.
+231: I live at Boston and there's a gigantic hole in the dome.
+232: I'm at Chicago and my spouse has a high fever.
+233: I live at Kansas and I have a flat tire.
+234: My daughter is having trouble breathing. I'm in Alabama.
+235: My son is having a seizure. I'm at Boston.
+236: I'm in Boston and my spouse passed out.
+237: I live at Bon Jovi and my vehicle is dead.
+238: I'm currently staying at Kansas and my roof is leaking.
+239: My daughter is having a seizure. I'm currently staying at Bon Jovi.
+240: I'm in Alabama and my son fell and broke something.
+241: My son fell and broke something. I live at Journey.
+242: My son passed out. I'm at Bon Jovi.
+243: I'm at Boston and my vehicle is dead.
+244: My son passed out. I'm currently staying at Journey.
+245: I'm currently staying at Journey and my son is having trouble breathing.
+246: I'm at Boston and my air conditioning stopped working.
+247: I'm currently staying at Journey and my pipes are leaking.
+248: My car broke. Please send help. You can find me at Boston.
+249: My spouse fell and broke something. I live at Kansas.
+250: I'm at Bon Jovi and I have a flat tire.
+251: I'm at Chicago and my son is having a seizure.
+252: I live at Bon Jovi and my power is out.
+253: I live at Chicago and I've had a car accident.
+254: I'm in Chicago and my spouse passed out.
+255: I'm at Bon Jovi and my son is having a seizure.
+256: I'm in Kansas and my air conditioning stopped working.
+257: My spouse fell and broke something. I'm currently staying at Boston.
+258: I'm at Bon Jovi and we've been struck by a meteorite.
+259: I'm in Chicago and I broke a window.
+260: I have a flat tire. Please send help. You can find me at Bon Jovi.
+261: My son is having trouble breathing. I live at Chicago.
+262: I live at Kansas and my spouse has a high fever.
+263: I'm at Alabama and the dome is falling down on all of us.
+264: My son fell and broke something. I'm currently staying at Chicago.
+265: I'm currently staying at Boston and my vehicle is stuck.
+266: I have a flat tire. Please send help. You can find me at Bon Jovi.
+267: I'm in Boston and we've been struck by a meteorite.
+268: My daughter is having trouble breathing. I'm at Chicago.
+269: I'm in Bon Jovi and we've been struck by a meteorite.
+270: I'm currently staying at Survivor and my son is having trouble breathing.
+271: My daughter had an accident with a knife. I'm at Boston.
+272: I'm at Survivor and we've been struck by a meteorite.
+273: I'm currently staying at Journey and we've had a marsquake. Lava is coming out of the ground.
+274: My car won't start. Please send help. You can find me at Survivor.
+275: I'm at Survivor and my spouse passed out.
+276: My spouse fell and broke something. I live at Alabama.
+277: I'm at Survivor and my roof is leaking.
+278: My car is stalled. Please send help. You can find me at Boston.
+279: I'm currently staying at Journey and my son has a high fever.
+280: My daughter is having a seizure. I'm at Journey.
+281: My son is having a seizure. I'm at Journey.
+282: I live at Kansas and I broke a window.
+283: I'm in Kansas and the dome is falling down on all of us.
+284: I live at Kansas and we've had a marsquake. Lava is coming out of the ground.
+285: I live at Journey and my roof is leaking.
+286: My son is having a seizure. I'm currently staying at Bon Jovi.
+287: I have a flat tire. Please send help. You can find me at Bon Jovi.
+288: My spouse fell and broke something. I'm at Bon Jovi.
+289: I'm currently staying at Boston and my spouse is having trouble breathing.
+290: I'm currently staying at Bon Jovi and I've had a car accident.
+291: I'm in Kansas and my power is out.
+292: I'm in Kansas and the dome is falling down on all of us.
+293: My daughter passed out. I'm currently staying at Kansas.
+294: My daughter had an accident with a knife. I'm currently staying at Boston.
+295: I live at Survivor and my daughter passed out.
+296: My son passed out. I'm currently staying at Survivor.
+297: I'm in Boston and my daughter is having trouble breathing.
+298: I'm at Alabama and my roof is leaking.
+299: I live at Boston and my car is stalled.
+300: I have a flat tire. Please send help. You can find me at Alabama.
+301: I'm currently staying at Chicago and my car is stalled.
+302: I live at Journey and my daughter passed out.
+303: I have a flat tire. Please send help. You can find me at Alabama.
+304: I'm currently staying at Boston and I broke a window.
+305: I'm currently staying at Chicago and my son is having trouble breathing.
+306: I've had a car accident. Please send help. You can find me at Bon Jovi.
+307: I have a flat tire. Please send help. You can find me at Journey.
+308: I'm currently staying at Bon Jovi and my spouse had an accident with a knife.
+309: I'm in Journey and we've been struck by a meteorite.
+310: I'm at Journey and my roof is leaking.
+311: I'm in Kansas and my air conditioning stopped working.
+312: I'm currently staying at Chicago and my power is out.
+313: I'm in Alabama and my spouse has a high fever.
+314: I live at Bon Jovi and the dome is falling down on all of us.
+315: My spouse fell and broke something. I'm in Journey.
+316: I'm at Boston and my daughter passed out.
+317: I'm currently staying at Boston and I broke a window.
+318: I'm at Kansas and I've had a car accident.
+319: I'm at Journey and my son is having a seizure.
+320: I'm currently staying at Kansas and my car is stalled.
+321: My son fell and broke something. I'm currently staying at Chicago.
+322: I'm at Bon Jovi and my car won't start.
+323: I'm currently staying at Kansas and we've had a marsquake. Lava is coming out of the ground.
+324: I'm in Bon Jovi and my daughter fell and broke something.
+325: I live at Survivor and my daughter fell and broke something.
+326: I'm in Boston and I've had a car accident.
+327: I have a flat tire. Please send help. You can find me at Survivor.
+328: I'm in Chicago and we've had a marsquake. Lava is coming out of the ground.
+329: I'm currently staying at Boston and my car is stalled.
+330: I'm at Kansas and my vehicle is stuck.
+331: I've had a car accident. Please send help. You can find me at Alabama.
+332: My son has a high fever. I live at Boston.
+333: My son is having a seizure. I'm at Journey.
+334: My son passed out. I'm currently staying at Journey.
+335: My car broke. Please send help. You can find me at Kansas.
+336: I'm in Chicago and my daughter fell and broke something.
+337: My daughter is having trouble breathing. I live at Bon Jovi.
+338: I live at Survivor and my power is out.
+339: I live at Chicago and I've had a car accident.
+340: I live at Kansas and my roof is leaking.
+341: I live at Bon Jovi and my daughter passed out.
+342: I'm at Journey and I have a flat tire.
+343: I live at Alabama and my car broke.
+344: I'm at Survivor and the dome is falling down on all of us.
+345: My vehicle is stuck. Please send help. You can find me at Boston.
+346: I'm in Chicago and we've been struck by a meteorite.
+347: My car won't start. Please send help. You can find me at Kansas.
+348: I live at Survivor and my spouse is having trouble breathing.
+349: I'm currently staying at Boston and my pipes are leaking.
+350: I live at Kansas and my daughter passed out.
+351: I live at Kansas and I have a flat tire.
+352: My son is having a seizure. I live at Journey.
+353: I'm at Bon Jovi and my spouse fell and broke something.
+354: I'm at Survivor and my son fell and broke something.
+355: I'm currently staying at Kansas and I broke a window.
+356: I'm in Alabama and my spouse is having trouble breathing.
+357: I'm at Kansas and there's a gigantic hole in the dome.
+358: I'm in Journey and we've been struck by a meteorite.
+359: I'm at Kansas and my son has a high fever.
+360: I'm at Chicago and we've been struck by a meteorite.
+361: I'm at Alabama and my pipes are leaking.
+362: I'm currently staying at Bon Jovi and my car won't start.
+363: My daughter is having a seizure. I live at Boston.
+364: I'm currently staying at Bon Jovi and my spouse passed out.
+365: My son passed out. I live at Survivor.
+366: My daughter is having a seizure. I'm in Boston.
+367: I'm at Survivor and my daughter fell and broke something.
+368: I'm at Boston and my daughter had an accident with a knife.
+369: I'm currently staying at Alabama and my front door lock broke.
+370: I live at Survivor and my vehicle is dead.
+371: My vehicle is dead. Please send help. You can find me at Kansas.
+372: My car is stalled. Please send help. You can find me at Chicago.
+373: I'm at Boston and we've been struck by a meteorite.
+374: I live at Kansas and my daughter is having trouble breathing.
+375: I'm currently staying at Chicago and my air conditioning stopped working.
+376: I'm currently staying at Chicago and my car broke.
+377: My car won't start. Please send help. You can find me at Survivor.
+378: I live at Chicago and my car is stalled.
+379: I'm currently staying at Kansas and my car broke.
+380: I'm at Boston and my spouse has a high fever.
+381: I live at Kansas and my son fell and broke something.
+382: I'm currently staying at Survivor and my vehicle is dead.
+383: I'm currently staying at Alabama and my vehicle is dead.
+384: I'm currently staying at Chicago and my spouse has a high fever.
+385: I'm at Kansas and my pipes are leaking.
+386: I'm currently staying at Chicago and my car won't start.
+387: I'm at Alabama and my daughter is having a seizure.
+388: I'm at Kansas and my vehicle is stuck.
+389: I'm in Boston and my son had an accident with a knife.
+390: My son fell and broke something. I'm currently staying at Chicago.
+391: My spouse had an accident with a knife. I'm in Alabama.
+392: My spouse passed out. I'm at Survivor.
+393: I'm at Survivor and my son had an accident with a knife.
+394: I'm at Boston and my spouse has a high fever.
+395: I live at Alabama and my air conditioning stopped working.
+396: My spouse is having trouble breathing. I'm at Bon Jovi.
+397: My car won't start. Please send help. You can find me at Journey.
+398: I'm in Boston and my spouse is having a seizure.
+399: I'm at Journey and my car is stalled.
+400: I'm at Boston and I've had a car accident.
+401: I live at Boston and I've had a car accident.
+402: I'm currently staying at Boston and my spouse has a high fever.
+403: My son is having a seizure. I'm currently staying at Alabama.
+404: I live at Kansas and my car broke.
+405: My spouse has a high fever. I'm in Alabama.
+406: My daughter fell and broke something. I'm at Boston.
+407: I live at Boston and my son had an accident with a knife.
+408: I live at Kansas and my roof is leaking.
+409: My car broke. Please send help. You can find me at Journey.
+410: I'm currently staying at Chicago and my daughter had an accident with a knife.
+411: I'm in Chicago and my car is stalled.
+412: I'm currently staying at Chicago and we've had a marsquake. Lava is coming out of the ground.
+413: I'm currently staying at Survivor and we've had a marsquake. Lava is coming out of the ground.
+414: I live at Bon Jovi and my daughter fell and broke something.
+415: I'm currently staying at Kansas and my pipes are leaking.
+416: I'm at Journey and my daughter is having a seizure.
+417: I live at Survivor and my front door lock broke.
+418: I'm currently staying at Alabama and my car broke.
+419: I'm in Kansas and my pipes are leaking.
+420: I'm in Chicago and I have a flat tire.
+421: I'm at Bon Jovi and my spouse had an accident with a knife.
+422: My vehicle is dead. Please send help. You can find me at Chicago.
+423: I live at Chicago and there's a gigantic hole in the dome.
+424: I'm currently staying at Boston and the dome is falling down on all of us.
+425: My spouse is having trouble breathing. I'm in Boston.
+426: I'm in Boston and my son has a high fever.
+427: I live at Kansas and my spouse passed out.
+428: I'm currently staying at Journey and my daughter passed out.
+429: My daughter has a high fever. I'm at Chicago.
+430: My son has a high fever. I'm in Boston.
+431: I'm at Bon Jovi and my roof is leaking.
+432: I live at Chicago and we've been struck by a meteorite.
+433: I'm currently staying at Survivor and the dome is falling down on all of us.
+434: I've had a car accident. Please send help. You can find me at Chicago.
+435: I'm currently staying at Boston and there's a gigantic hole in the dome.
+436: My son has a high fever. I live at Alabama.
+437: My son has a high fever. I'm in Kansas.
+438: I'm in Kansas and I broke a window.
+439: I live at Kansas and my son is having a seizure.
+440: I live at Kansas and my son is having trouble breathing.
+441: I'm at Kansas and there's a gigantic hole in the dome.
+442: I have a flat tire. Please send help. You can find me at Kansas.
+443: I'm at Boston and my car is stalled.
+444: I live at Bon Jovi and my car won't start.
+445: My vehicle is stuck. Please send help. You can find me at Chicago.
+446: My son has a high fever. I'm in Chicago.
+447: I have a flat tire. Please send help. You can find me at Journey.
+448: I'm currently staying at Alabama and my power is out.
+449: My spouse is having a seizure. I'm currently staying at Bon Jovi.
+450: I'm currently staying at Alabama and my spouse had an accident with a knife.
+451: I'm at Chicago and my front door lock broke.
+452: My son had an accident with a knife. I'm currently staying at Boston.
+453: I live at Bon Jovi and my air conditioning stopped working.
+454: I'm at Alabama and my air conditioning stopped working.
+455: I have a flat tire. Please send help. You can find me at Bon Jovi.
+456: I'm in Boston and we've had a marsquake. Lava is coming out of the ground.
+457: I'm in Bon Jovi and my vehicle is stuck.
+458: I live at Boston and my power is out.
+459: I'm currently staying at Chicago and my spouse is having trouble breathing.
+460: I'm at Survivor and my daughter fell and broke something.
+461: I'm in Survivor and my spouse has a high fever.
+462: I'm currently staying at Journey and my daughter is having trouble breathing.
+463: I'm in Alabama and we've had a marsquake. Lava is coming out of the ground.
+464: I'm in Survivor and I broke a window.
+465: My car broke. Please send help. You can find me at Boston.
+466: I'm in Survivor and my spouse passed out.
+467: I live at Chicago and I've had a car accident.
+468: I live at Chicago and my pipes are leaking.
+469: I'm in Journey and my power is out.
+470: My car broke. Please send help. You can find me at Alabama.
+471: I'm currently staying at Survivor and the dome is falling down on all of us.
+472: I live at Bon Jovi and my front door lock broke.
+473: I'm currently staying at Chicago and my daughter had an accident with a knife.
+474: I'm currently staying at Alabama and my roof is leaking.
+475: I live at Kansas and we've had a marsquake. Lava is coming out of the ground.
+476: I'm in Alabama and the dome is falling down on all of us.
+477: I'm currently staying at Kansas and my son passed out.
+478: My son passed out. I live at Kansas.
+479: My spouse is having a seizure. I'm at Alabama.
+480: I'm at Kansas and my daughter is having trouble breathing.
+481: I'm in Alabama and my vehicle is stuck.
+482: My son has a high fever. I'm at Journey.
+483: My son is having a seizure. I'm at Journey.
+484: I live at Kansas and my vehicle is stuck.
+485: I'm in Alabama and there's a gigantic hole in the dome.
+486: My daughter is having trouble breathing. I'm currently staying at Bon Jovi.
+487: I'm at Chicago and my son fell and broke something.
+488: My vehicle is dead. Please send help. You can find me at Boston.
+489: I'm at Survivor and my roof is leaking.
+490: I live at Chicago and I have a flat tire.
+491: I'm currently staying at Alabama and I've had a car accident.
+492: I'm currently staying at Chicago and my air conditioning stopped working.
+493: My daughter has a high fever. I'm in Alabama.
+494: I'm in Kansas and we've been struck by a meteorite.
+495: My daughter fell and broke something. I'm currently staying at Boston.
+496: I'm currently staying at Journey and my car broke.
+497: I live at Boston and my power is out.
+498: I'm at Chicago and my roof is leaking.
+499: I'm currently staying at Boston and my front door lock broke.
+500: I live at Survivor and my son had an accident with a knife.
+501: I'm currently staying at Journey and my son fell and broke something.
+502: I'm currently staying at Kansas and my son has a high fever.
+503: My son is having a seizure. I'm at Alabama.
+504: My daughter had an accident with a knife. I'm in Survivor.
+505: I'm at Kansas and my spouse passed out.
+506: I'm currently staying at Boston and my daughter has a high fever.
+507: I'm currently staying at Bon Jovi and my vehicle is stuck.
+508: My spouse has a high fever. I'm in Boston.
+509: I'm in Boston and my roof is leaking.
+510: I'm in Bon Jovi and there's a gigantic hole in the dome.
+511: I'm in Chicago and my air conditioning stopped working.
+512: I live at Alabama and my spouse had an accident with a knife.
+513: I live at Kansas and my vehicle is stuck.
+514: I'm at Chicago and my roof is leaking.
+515: My son fell and broke something. I'm currently staying at Journey.
+516: I'm in Chicago and there's a gigantic hole in the dome.
+517: I'm at Alabama and I broke a window.
+518: I live at Boston and my son has a high fever.
+519: I'm currently staying at Boston and my vehicle is dead.
+520: I live at Journey and my son is having trouble breathing.
+521: I'm currently staying at Boston and my pipes are leaking.
+522: I'm at Bon Jovi and my car won't start.
+523: My car won't start. Please send help. You can find me at Alabama.
+524: My son is having a seizure. I'm at Chicago.
+525: I'm at Journey and my pipes are leaking.
+526: I live at Bon Jovi and we've had a marsquake. Lava is coming out of the ground.
+527: I'm currently staying at Survivor and my car is stalled.
+528: My son is having a seizure. I'm in Boston.
+529: I've had a car accident. Please send help. You can find me at Alabama.
+530: I live at Boston and my car broke.
+531: My spouse is having trouble breathing. I live at Journey.
+532: I live at Chicago and my vehicle is stuck.
+533: My daughter is having a seizure. I'm at Journey.
+534: I have a flat tire. Please send help. You can find me at Kansas.
+535: My daughter has a high fever. I'm currently staying at Alabama.
+536: I have a flat tire. Please send help. You can find me at Journey.
+537: I'm currently staying at Alabama and my roof is leaking.
+538: I live at Alabama and my pipes are leaking.
+539: I'm in Bon Jovi and my son is having a seizure.
+540: My vehicle is dead. Please send help. You can find me at Journey.
+541: I'm at Chicago and I've had a car accident.
+542: I'm at Boston and my spouse is having trouble breathing.
+543: I live at Kansas and my vehicle is stuck.
+544: I'm currently staying at Chicago and my daughter fell and broke something.
+545: I'm in Alabama and my car broke.
+546: My vehicle is stuck. Please send help. You can find me at Kansas.
+547: My car is stalled. Please send help. You can find me at Survivor.
+548: I live at Chicago and I broke a window.
+549: I live at Alabama and my daughter has a high fever.
+550: I'm at Kansas and we've been struck by a meteorite.
+551: My son fell and broke something. I live at Chicago.
+552: I'm currently staying at Boston and there's a gigantic hole in the dome.
+553: My spouse passed out. I'm currently staying at Alabama.
+554: My daughter fell and broke something. I'm in Kansas.
+555: My spouse had an accident with a knife. I live at Chicago.
+556: I live at Bon Jovi and my pipes are leaking.
+557: My spouse fell and broke something. I'm in Kansas.
+558: I'm at Survivor and my daughter passed out.
+559: My daughter fell and broke something. I'm in Bon Jovi.
+560: I'm currently staying at Boston and my vehicle is dead.
+561: I'm currently staying at Survivor and my pipes are leaking.
+562: I live at Journey and my vehicle is dead.
+563: I'm at Bon Jovi and I've had a car accident.
+564: I live at Alabama and my spouse has a high fever.
+565: I live at Bon Jovi and my daughter had an accident with a knife.
+566: My car broke. Please send help. You can find me at Bon Jovi.
+567: I'm in Boston and my vehicle is dead.
+568: I'm in Survivor and my car is stalled.
+569: My spouse had an accident with a knife. I live at Bon Jovi.
+570: I'm currently staying at Chicago and my power is out.
+571: My vehicle is stuck. Please send help. You can find me at Alabama.
+572: My daughter fell and broke something. I'm in Journey.
+573: I'm at Journey and my car is stalled.
+574: I'm at Boston and my daughter is having trouble breathing.
+575: I'm at Kansas and my power is out.
+576: My daughter is having a seizure. I'm currently staying at Bon Jovi.
+577: I'm at Bon Jovi and my vehicle is dead.
+578: My spouse fell and broke something. I'm in Kansas.
+579: My spouse fell and broke something. I live at Bon Jovi.
+580: I'm currently staying at Alabama and my car is stalled.
+581: I'm currently staying at Alabama and I have a flat tire.
+582: I'm at Kansas and we've been struck by a meteorite.
+583: My son had an accident with a knife. I live at Chicago.
+584: I'm at Chicago and my car broke.
+585: I'm in Kansas and my pipes are leaking.
+586: I'm at Bon Jovi and we've been struck by a meteorite.
+587: My daughter is having a seizure. I live at Boston.
+588: I'm at Bon Jovi and my son is having trouble breathing.
+589: I'm in Boston and my power is out.
+590: My daughter had an accident with a knife. I'm in Journey.
+591: I'm currently staying at Alabama and we've been struck by a meteorite.
+592: I live at Chicago and I broke a window.
+593: My car broke. Please send help. You can find me at Survivor.
+594: My vehicle is stuck. Please send help. You can find me at Bon Jovi.
+595: I'm in Journey and I broke a window.
+596: My daughter fell and broke something. I'm in Boston.
+597: I live at Journey and my front door lock broke.
+598: I live at Kansas and I've had a car accident.
+599: I'm currently staying at Survivor and my power is out.
+600: My spouse has a high fever. I live at Alabama.
+601: I'm currently staying at Bon Jovi and my pipes are leaking.
+602: My car is stalled. Please send help. You can find me at Survivor.
+603: I'm at Bon Jovi and the dome is falling down on all of us.
+604: I'm currently staying at Survivor and I've had a car accident.
+605: My daughter fell and broke something. I'm at Bon Jovi.
+606: My daughter is having a seizure. I'm at Boston.
+607: My daughter is having a seizure. I'm in Chicago.
+608: I'm in Bon Jovi and there's a gigantic hole in the dome.
+609: My spouse had an accident with a knife. I'm at Bon Jovi.
+610: I'm at Alabama and I've had a car accident.
+611: My spouse passed out. I'm at Chicago.
+612: I'm currently staying at Journey and I've had a car accident.
+613: I'm currently staying at Kansas and there's a gigantic hole in the dome.
+614: I'm currently staying at Survivor and I broke a window.
+615: My spouse has a high fever. I'm currently staying at Boston.
+616: I'm currently staying at Journey and my daughter is having a seizure.
+617: I'm in Survivor and we've been struck by a meteorite.
+618: My vehicle is dead. Please send help. You can find me at Chicago.
+619: I'm currently staying at Kansas and we've been struck by a meteorite.
+620: I live at Bon Jovi and my car broke.
+621: I'm currently staying at Survivor and my spouse has a high fever.
+622: I'm in Kansas and my car won't start.
+623: My car is stalled. Please send help. You can find me at Journey.
+624: My car broke. Please send help. You can find me at Bon Jovi.
+625: I'm currently staying at Kansas and my son fell and broke something.
+626: I'm in Survivor and my son passed out.
+627: I'm currently staying at Kansas and my daughter is having trouble breathing.
+628: I'm at Chicago and my daughter had an accident with a knife.
+629: I'm currently staying at Bon Jovi and I have a flat tire.
+630: I'm currently staying at Bon Jovi and I have a flat tire.
+631: I'm at Survivor and my car is stalled.
+632: I'm currently staying at Bon Jovi and my roof is leaking.
+633: My vehicle is dead. Please send help. You can find me at Alabama.
+634: I live at Journey and I broke a window.
+635: I'm currently staying at Boston and I've had a car accident.
+636: My car is stalled. Please send help. You can find me at Survivor.
+637: I'm at Survivor and my car won't start.
+638: I'm currently staying at Survivor and we've had a marsquake. Lava is coming out of the ground.
+639: I live at Alabama and my daughter is having trouble breathing.
+640: I'm at Kansas and my pipes are leaking.
+641: I'm currently staying at Alabama and my son is having trouble breathing.
+642: I'm in Chicago and my spouse passed out.
+643: I'm in Kansas and my pipes are leaking.
+644: I'm currently staying at Journey and we've been struck by a meteorite.
+645: I'm currently staying at Chicago and my son had an accident with a knife.
+646: I'm in Alabama and my daughter fell and broke something.
+647: I'm currently staying at Alabama and my son passed out.
+648: I have a flat tire. Please send help. You can find me at Bon Jovi.
+649: I'm in Survivor and my daughter is having a seizure.
+650: I'm in Journey and my roof is leaking.
+651: I'm currently staying at Alabama and we've had a marsquake. Lava is coming out of the ground.
+652: My spouse is having trouble breathing. I'm in Boston.
+653: My vehicle is stuck. Please send help. You can find me at Journey.
+654: My daughter had an accident with a knife. I live at Journey.
+655: My son is having a seizure. I live at Kansas.
+656: I live at Bon Jovi and my front door lock broke.
+657: My spouse is having trouble breathing. I'm currently staying at Bon Jovi.
+658: I'm at Boston and my spouse passed out.
+659: I'm at Kansas and my air conditioning stopped working.
+660: I'm currently staying at Journey and the dome is falling down on all of us.
+661: My son has a high fever. I'm in Boston.
+662: I'm at Boston and my car broke.
+663: My car broke. Please send help. You can find me at Survivor.
+664: My vehicle is stuck. Please send help. You can find me at Alabama.
+665: I'm at Bon Jovi and my son is having trouble breathing.
+666: My son passed out. I'm currently staying at Kansas.
+667: I'm at Bon Jovi and my pipes are leaking.
+668: My car is stalled. Please send help. You can find me at Chicago.
+669: I'm at Bon Jovi and my car broke.
+670: I'm currently staying at Alabama and my daughter is having trouble breathing.
+671: I live at Chicago and my front door lock broke.
+672: I live at Alabama and my power is out.
+673: I live at Bon Jovi and my vehicle is dead.
+674: I'm currently staying at Kansas and I have a flat tire.
+675: I have a flat tire. Please send help. You can find me at Kansas.
+676: I'm at Kansas and I broke a window.
+677: I'm at Bon Jovi and the dome is falling down on all of us.
+678: I'm in Boston and my car won't start.
+679: My spouse is having trouble breathing. I live at Kansas.
+680: I'm currently staying at Survivor and we've been struck by a meteorite.
+681: I'm currently staying at Kansas and we've been struck by a meteorite.
+682: I'm at Journey and my son had an accident with a knife.
+683: I live at Alabama and my vehicle is dead.
+684: I'm in Survivor and the dome is falling down on all of us.
+685: I'm currently staying at Boston and my spouse fell and broke something.
+686: I live at Chicago and my daughter is having a seizure.
+687: My spouse is having a seizure. I'm in Journey.
+688: My car broke. Please send help. You can find me at Journey.
+689: My vehicle is stuck. Please send help. You can find me at Journey.
+690: I live at Alabama and my roof is leaking.
+691: I live at Alabama and my spouse had an accident with a knife.
+692: I live at Survivor and my car is stalled.
+693: I'm currently staying at Journey and my air conditioning stopped working.
+694: I've had a car accident. Please send help. You can find me at Kansas.
+695: I'm in Kansas and my front door lock broke.
+696: My vehicle is stuck. Please send help. You can find me at Chicago.
+697: My daughter is having a seizure. I'm currently staying at Bon Jovi.
+698: I live at Alabama and my spouse had an accident with a knife.
+699: My daughter is having a seizure. I live at Bon Jovi.
+700: I'm currently staying at Journey and my spouse is having trouble breathing.
+701: I'm at Chicago and my power is out.
+702: I live at Chicago and my front door lock broke.
+703: I'm currently staying at Journey and I have a flat tire.
+704: I'm currently staying at Boston and my son has a high fever.
+705: I'm currently staying at Survivor and my pipes are leaking.
+706: I'm currently staying at Bon Jovi and my son had an accident with a knife.
+707: I'm in Chicago and my daughter is having trouble breathing.
+708: I'm in Journey and my power is out.
+709: I'm currently staying at Kansas and my car broke.
+710: My daughter had an accident with a knife. I'm at Chicago.
+711: My daughter has a high fever. I'm currently staying at Chicago.
+712: I'm currently staying at Chicago and my front door lock broke.
+713: My son has a high fever. I live at Alabama.
+714: I live at Chicago and my roof is leaking.
+715: I have a flat tire. Please send help. You can find me at Alabama.
+716: My son has a high fever. I'm at Journey.
+717: I'm at Journey and my power is out.
+718: I'm in Alabama and my vehicle is dead.
+719: I'm currently staying at Survivor and the dome is falling down on all of us.
+720: I'm currently staying at Bon Jovi and my son has a high fever.
+721: My son passed out. I'm currently staying at Alabama.
+722: I live at Alabama and my roof is leaking.
+723: I'm currently staying at Chicago and my pipes are leaking.
+724: My daughter had an accident with a knife. I'm in Journey.
+725: My son fell and broke something. I'm currently staying at Boston.
+726: I'm currently staying at Journey and my car won't start.
+727: I'm currently staying at Bon Jovi and my daughter is having a seizure.
+728: I live at Survivor and my car won't start.
+729: I'm currently staying at Chicago and my spouse has a high fever.
+730: My son had an accident with a knife. I'm at Kansas.
+731: My vehicle is dead. Please send help. You can find me at Survivor.
+732: I'm at Kansas and my son passed out.
+733: I'm currently staying at Boston and my air conditioning stopped working.
+734: I'm currently staying at Survivor and my car is stalled.
+735: I'm at Bon Jovi and we've been struck by a meteorite.
+736: I'm currently staying at Survivor and we've been struck by a meteorite.
+737: My daughter had an accident with a knife. I'm at Survivor.
+738: I live at Survivor and my son had an accident with a knife.
+739: I'm in Bon Jovi and my roof is leaking.
+740: My son is having trouble breathing. I'm at Alabama.
+741: I'm in Bon Jovi and my car is stalled.
+742: I'm in Chicago and my spouse has a high fever.
+743: I'm at Bon Jovi and my roof is leaking.
+744: I'm at Journey and my car broke.
+745: My vehicle is dead. Please send help. You can find me at Kansas.
+746: I'm at Boston and my spouse fell and broke something.
+747: My son had an accident with a knife. I live at Boston.
+748: I live at Survivor and my power is out.
+749: I'm in Chicago and my daughter fell and broke something.
+750: My daughter has a high fever. I'm at Chicago.
+751: I'm in Boston and my front door lock broke.
+752: My vehicle is dead. Please send help. You can find me at Boston.
+753: I'm at Chicago and my vehicle is dead.
+754: My spouse is having a seizure. I'm in Bon Jovi.
+755: I'm at Alabama and my son is having trouble breathing.
+756: My spouse had an accident with a knife. I'm in Boston.
+757: I'm at Boston and my car broke.
+758: I live at Survivor and there's a gigantic hole in the dome.
+759: I'm currently staying at Survivor and my spouse fell and broke something.
+760: I'm currently staying at Bon Jovi and my power is out.
+761: My daughter had an accident with a knife. I'm in Bon Jovi.
+762: I'm currently staying at Chicago and my car is stalled.
+763: I'm currently staying at Alabama and my daughter is having a seizure.
+764: I live at Survivor and my spouse had an accident with a knife.
+765: I live at Bon Jovi and my daughter is having a seizure.
+766: My son had an accident with a knife. I'm in Alabama.
+767: My son had an accident with a knife. I'm in Kansas.
+768: I'm currently staying at Survivor and my car broke.
+769: I'm in Kansas and my front door lock broke.
+770: I live at Alabama and my air conditioning stopped working.
+771: My vehicle is dead. Please send help. You can find me at Boston.
+772: My spouse is having trouble breathing. I live at Alabama.
+773: I live at Boston and my pipes are leaking.
+774: I'm currently staying at Boston and my air conditioning stopped working.
+775: I'm currently staying at Boston and my pipes are leaking.
+776: I'm in Boston and my car broke.
+777: I live at Kansas and my power is out.
+778: I'm currently staying at Kansas and my vehicle is stuck.
+779: I'm currently staying at Alabama and my front door lock broke.
+780: I live at Bon Jovi and my spouse passed out.
+781: I live at Survivor and my vehicle is dead.
+782: My daughter fell and broke something. I live at Journey.
+783: I live at Chicago and my air conditioning stopped working.
+784: My daughter is having a seizure. I'm currently staying at Survivor.
+785: My son has a high fever. I'm in Bon Jovi.
+786: I'm in Survivor and my pipes are leaking.
+787: I'm currently staying at Alabama and I have a flat tire.
+788: I live at Alabama and my daughter had an accident with a knife.
+789: I'm in Journey and I have a flat tire.
+790: I'm currently staying at Kansas and my air conditioning stopped working.
+791: I'm in Bon Jovi and my pipes are leaking.
+792: I'm at Kansas and my spouse is having trouble breathing.
+793: I'm currently staying at Journey and my son has a high fever.
+794: My spouse is having a seizure. I'm at Journey.
+795: My vehicle is dead. Please send help. You can find me at Alabama.
+796: I'm at Journey and I have a flat tire.
+797: I live at Kansas and my car is stalled.
+798: I live at Bon Jovi and my spouse had an accident with a knife.
+799: My son fell and broke something. I live at Bon Jovi.
+800: I'm currently staying at Boston and my spouse had an accident with a knife.
+801: I'm at Journey and we've been struck by a meteorite.
+802: My spouse is having trouble breathing. I'm at Kansas.
+803: My son fell and broke something. I'm currently staying at Kansas.
+804: I'm at Survivor and my daughter is having a seizure.
+805: My spouse is having trouble breathing. I'm currently staying at Boston.
+806: My daughter is having trouble breathing. I'm currently staying at Bon Jovi.
+807: I'm at Boston and we've had a marsquake. Lava is coming out of the ground.
+808: My spouse passed out. I live at Chicago.
+809: I'm at Survivor and my car broke.
+810: My car won't start. Please send help. You can find me at Survivor.
+811: My daughter is having trouble breathing. I'm at Bon Jovi.
+812: I'm currently staying at Survivor and my daughter has a high fever.
+813: My vehicle is dead. Please send help. You can find me at Chicago.
+814: I'm at Alabama and I broke a window.
+815: I live at Boston and my front door lock broke.
+816: I'm currently staying at Survivor and my power is out.
+817: I'm at Alabama and my vehicle is dead.
+818: My car is stalled. Please send help. You can find me at Chicago.
+819: I'm currently staying at Chicago and my air conditioning stopped working.
+820: I'm at Survivor and my air conditioning stopped working.
+821: I'm in Kansas and my spouse is having a seizure.
+822: I'm currently staying at Alabama and my car is stalled.
+823: My car won't start. Please send help. You can find me at Kansas.
+824: I'm at Kansas and my vehicle is dead.
+825: I'm at Journey and my vehicle is stuck.
+826: My son is having trouble breathing. I'm in Chicago.
+827: I'm at Survivor and my power is out.
+828: I'm currently staying at Survivor and my power is out.
+829: I'm in Alabama and my vehicle is stuck.
+830: My son has a high fever. I'm currently staying at Alabama.
+831: I live at Alabama and I've had a car accident.
+832: My son fell and broke something. I'm at Chicago.
+833: I'm currently staying at Journey and I've had a car accident.
+834: My daughter fell and broke something. I'm at Boston.
+835: I'm in Kansas and my son is having a seizure.
+836: I'm currently staying at Bon Jovi and my roof is leaking.
+837: I'm in Alabama and we've had a marsquake. Lava is coming out of the ground.
+838: I live at Survivor and my son is having trouble breathing.
+839: My daughter passed out. I live at Chicago.
+840: I'm at Alabama and my vehicle is stuck.
+841: I'm in Bon Jovi and my spouse has a high fever.
+842: I'm in Bon Jovi and my daughter is having trouble breathing.
+843: I'm in Kansas and my power is out.
+844: I'm currently staying at Alabama and my son has a high fever.
+845: I'm currently staying at Kansas and my air conditioning stopped working.
+846: I live at Boston and my vehicle is dead.
+847: I'm at Chicago and my son fell and broke something.
+848: I'm currently staying at Bon Jovi and my power is out.
+849: I'm currently staying at Kansas and my car is stalled.
+850: I'm currently staying at Alabama and I've had a car accident.
+851: My son has a high fever. I'm currently staying at Bon Jovi.
+852: My son had an accident with a knife. I live at Alabama.
+853: I'm currently staying at Journey and my roof is leaking.
+854: I'm currently staying at Chicago and we've had a marsquake. Lava is coming out of the ground.
+855: I have a flat tire. Please send help. You can find me at Journey.
+856: I'm in Journey and my son is having trouble breathing.
+857: I'm in Bon Jovi and my pipes are leaking.
+858: My daughter passed out. I'm currently staying at Chicago.
+859: I live at Chicago and my spouse had an accident with a knife.
+860: My daughter fell and broke something. I'm in Kansas.
+861: I'm currently staying at Kansas and my air conditioning stopped working.
+862: I'm currently staying at Boston and my vehicle is dead.
+863: I'm at Survivor and there's a gigantic hole in the dome.
+864: I'm in Chicago and we've been struck by a meteorite.
+865: I'm currently staying at Chicago and my vehicle is stuck.
+866: I'm in Survivor and my power is out.
+867: My son fell and broke something. I live at Journey.
+868: I'm currently staying at Kansas and my spouse has a high fever.
+869: I live at Boston and we've had a marsquake. Lava is coming out of the ground.
+870: I'm currently staying at Journey and my daughter passed out.
+871: I'm in Alabama and we've been struck by a meteorite.
+872: I'm in Chicago and my pipes are leaking.
+873: I'm at Bon Jovi and my pipes are leaking.
+874: I'm currently staying at Chicago and my car broke.
+875: I have a flat tire. Please send help. You can find me at Bon Jovi.
+876: I live at Survivor and my spouse is having trouble breathing.
+877: I'm at Alabama and my son has a high fever.
+878: I'm at Journey and I have a flat tire.
+879: I'm in Boston and my front door lock broke.
+880: My daughter passed out. I live at Chicago.
+881: My car broke. Please send help. You can find me at Kansas.
+882: I'm in Survivor and I broke a window.
+883: I live at Chicago and my daughter had an accident with a knife.
+884: I'm in Boston and my daughter fell and broke something.
+885: I'm at Alabama and I have a flat tire.
+886: My vehicle is stuck. Please send help. You can find me at Survivor.
+887: I'm at Bon Jovi and I broke a window.
+888: I'm in Survivor and the dome is falling down on all of us.
+889: My son had an accident with a knife. I'm in Journey.
+890: I'm currently staying at Chicago and my vehicle is stuck.
+891: I live at Bon Jovi and my daughter fell and broke something.
+892: I live at Bon Jovi and my pipes are leaking.
+893: My son passed out. I'm currently staying at Kansas.
+894: I'm currently staying at Survivor and my daughter has a high fever.
+895: I live at Alabama and my vehicle is stuck.
+896: I'm currently staying at Journey and my power is out.
+897: My car broke. Please send help. You can find me at Chicago.
+898: My son fell and broke something. I'm in Alabama.
+899: I'm currently staying at Boston and I have a flat tire.
+900: I'm currently staying at Kansas and my son passed out.
+901: I live at Journey and my spouse is having a seizure.
+902: I'm in Alabama and my son is having trouble breathing.
+903: My daughter is having trouble breathing. I'm in Survivor.
+904: I'm currently staying at Boston and I have a flat tire.
+905: My son is having trouble breathing. I'm at Bon Jovi.
+906: I'm in Boston and I broke a window.
+907: My daughter is having trouble breathing. I live at Chicago.
+908: My spouse fell and broke something. I'm in Survivor.
+909: I live at Boston and my vehicle is stuck.
+910: I'm in Survivor and I have a flat tire.
+911: I'm in Boston and my power is out.
+912: I live at Chicago and my car is stalled.
+913: I'm in Journey and my power is out.
+914: I live at Journey and my spouse fell and broke something.
+915: I'm in Boston and my front door lock broke.
+916: I'm currently staying at Kansas and my vehicle is dead.
+917: I live at Journey and my spouse is having trouble breathing.
+918: My son is having a seizure. I live at Boston.
+919: I'm currently staying at Chicago and my spouse fell and broke something.
+920: I'm in Chicago and my vehicle is dead.
+921: I've had a car accident. Please send help. You can find me at Chicago.
+922: I live at Survivor and my daughter had an accident with a knife.
+923: I'm currently staying at Chicago and I broke a window.
+924: My spouse passed out. I'm at Bon Jovi.
+925: I'm at Survivor and my pipes are leaking.
+926: I'm in Alabama and my front door lock broke.
+927: My son is having trouble breathing. I'm at Survivor.
+928: My car broke. Please send help. You can find me at Kansas.
+929: I live at Chicago and my power is out.
+930: My spouse has a high fever. I'm in Survivor.
+931: I'm at Journey and I have a flat tire.
+932: I'm currently staying at Chicago and my car is stalled.
+933: My spouse is having trouble breathing. I live at Boston.
+934: I live at Journey and my pipes are leaking.
+935: I'm currently staying at Alabama and my vehicle is dead.
+936: I'm at Chicago and my daughter passed out.
+937: I'm currently staying at Chicago and we've had a marsquake. Lava is coming out of the ground.
+938: I'm in Alabama and my daughter had an accident with a knife.
+939: I'm in Boston and my air conditioning stopped working.
+940: I'm in Alabama and my son passed out.
+941: I'm in Survivor and there's a gigantic hole in the dome.
+942: I'm in Boston and my son is having trouble breathing.
+943: I'm at Alabama and I've had a car accident.
+944: My car is stalled. Please send help. You can find me at Kansas.
+945: My car is stalled. Please send help. You can find me at Boston.
+946: My spouse had an accident with a knife. I'm in Alabama.
+947: I'm in Boston and there's a gigantic hole in the dome.
+948: I live at Boston and my power is out.
+949: I'm currently staying at Bon Jovi and we've had a marsquake. Lava is coming out of the ground.
+950: I'm currently staying at Journey and my son had an accident with a knife.
+951: I live at Journey and my son is having a seizure.
+952: I live at Bon Jovi and my daughter is having a seizure.
+953: I'm at Boston and my front door lock broke.
+954: I'm in Kansas and my front door lock broke.
+955: I'm currently staying at Kansas and my car broke.
+956: I live at Bon Jovi and my power is out.
+957: I'm currently staying at Survivor and my spouse is having a seizure.
+958: I'm in Kansas and my pipes are leaking.
+959: I'm currently staying at Journey and my vehicle is dead.
+960: I'm at Survivor and my daughter is having a seizure.
+961: I live at Chicago and my power is out.
+962: I'm in Chicago and my spouse is having a seizure.
+963: I live at Survivor and my air conditioning stopped working.
+964: My vehicle is dead. Please send help. You can find me at Chicago.
+965: I'm in Survivor and my son had an accident with a knife.
+966: I'm currently staying at Journey and we've been struck by a meteorite.
+967: I have a flat tire. Please send help. You can find me at Bon Jovi.
+968: My son passed out. I'm currently staying at Boston.
+969: My spouse is having trouble breathing. I'm in Boston.
+970: I'm at Alabama and my car broke.
+971: I'm currently staying at Bon Jovi and my vehicle is stuck.
+972: I'm at Survivor and my car is stalled.
+973: I'm in Journey and there's a gigantic hole in the dome.
+974: I live at Bon Jovi and there's a gigantic hole in the dome.
+975: I'm in Kansas and my spouse fell and broke something.
+976: I live at Kansas and my son had an accident with a knife.
+977: My daughter is having trouble breathing. I'm currently staying at Chicago.
+978: I live at Kansas and the dome is falling down on all of us.
+979: I'm at Kansas and my daughter is having a seizure.
+980: I live at Bon Jovi and my son is having a seizure.
+981: I'm in Kansas and my son has a high fever.
+982: I live at Alabama and I broke a window.
+983: I'm currently staying at Kansas and my vehicle is stuck.
+984: I'm currently staying at Kansas and my pipes are leaking.
+985: I'm currently staying at Boston and my air conditioning stopped working.
+986: I'm in Alabama and I've had a car accident.
+987: I live at Bon Jovi and my vehicle is dead.
+988: I'm at Chicago and my car is stalled.
+989: I'm in Chicago and my roof is leaking.
+990: I'm at Chicago and my car won't start.
+991: I'm in Chicago and I broke a window.
+992: I'm at Survivor and my car is stalled.
+993: I have a flat tire. Please send help. You can find me at Alabama.
+994: I'm in Alabama and my car won't start.
+995: I'm at Journey and my daughter fell and broke something.
+996: I'm currently staying at Kansas and my car broke.
+997: I'm in Boston and my daughter is having trouble breathing.
+998: I'm in Bon Jovi and my car is stalled.
+999: I'm in Kansas and I broke a window.

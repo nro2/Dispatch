@@ -1,0 +1,1168 @@
+
+======= Processing requests for day 1
+======= 0 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+
+======= Processing requests for day 2
+======= 4 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH VEHICLE responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH VEHICLE responder to Survivor
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH VEHICLE responder to Boston
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+
+======= Processing requests for day 3
+======= 8 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Kansas
+
+======= Processing requests for day 4
+======= 11 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Journey
+
+======= Processing requests for day 5
+======= 14 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 6
+======= 15 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 7
+======= 17 requests carried over from previous day
+Dispatching HIGH VEHICLE responder to Journey
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+
+======= Processing requests for day 8
+======= 21 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+
+======= Processing requests for day 9
+======= 24 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH VEHICLE responder to Survivor
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 10
+======= 23 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH VEHICLE responder to Journey
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 11
+======= 27 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+
+======= Processing requests for day 12
+======= 27 requests carried over from previous day
+Dispatching HIGH VEHICLE responder to Journey
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+
+======= Processing requests for day 13
+======= 28 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Kansas
+
+======= Processing requests for day 14
+======= 27 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Bon Jovi
+
+======= Processing requests for day 15
+======= 28 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH VEHICLE responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Journey
+
+======= Processing requests for day 16
+======= 27 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH VEHICLE responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Kansas
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW FACILITY responder to Kansas
+
+======= Processing requests for day 17
+======= 27 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH VEHICLE responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Survivor
+
+======= Processing requests for day 18
+======= 26 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Boston
+
+======= Processing requests for day 19
+======= 25 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 20
+======= 25 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 21
+======= 25 requests carried over from previous day
+Dispatching HIGH VEHICLE responder to Boston
+Dispatching HIGH VEHICLE responder to Boston
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Survivor
+
+======= Processing requests for day 22
+======= 27 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+
+======= Processing requests for day 23
+======= 32 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Alabama
+
+======= Processing requests for day 24
+======= 36 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW FACILITY responder to Bon Jovi
+
+======= Processing requests for day 25
+======= 36 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 26
+======= 37 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Bon Jovi
+
+======= Processing requests for day 27
+======= 39 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 28
+======= 40 requests carried over from previous day
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Bon Jovi
+
+======= Processing requests for day 29
+======= 41 requests carried over from previous day
+Dispatching HIGH VEHICLE responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 30
+======= 41 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH VEHICLE responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW FACILITY responder to Survivor
+
+======= Processing requests for day 31
+======= 41 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Survivor
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH VEHICLE responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 32
+======= 41 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH VEHICLE responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Journey
+
+======= Processing requests for day 33
+======= 41 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Journey
+
+======= Processing requests for day 34
+======= 40 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 35
+======= 40 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH VEHICLE responder to Kansas
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 36
+======= 39 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Survivor
+
+======= Processing requests for day 37
+======= 39 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 38
+======= 38 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Survivor
+
+======= Processing requests for day 39
+======= 37 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Boston
+
+======= Processing requests for day 40
+======= 38 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+
+======= Processing requests for day 41
+======= 37 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 42
+======= 36 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH VEHICLE responder to Journey
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 43
+======= 36 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 44
+======= 35 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Alabama
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Boston
+
+======= Processing requests for day 45
+======= 34 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Boston
+
+======= Processing requests for day 46
+======= 35 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Alabama
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+
+======= Processing requests for day 47
+======= 34 requests carried over from previous day
+Dispatching HIGH VEHICLE responder to Chicago
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Bon Jovi
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Chicago
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Journey
+Dispatching LOW VEHICLE responder to Journey
+Dispatching LOW FACILITY responder to Journey
+
+======= Processing requests for day 48
+======= 33 requests carried over from previous day
+Dispatching HIGH ENVIRONMENT responder to Survivor
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH ENVIRONMENT responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Journey
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Alabama
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Journey
+
+======= Processing requests for day 49
+======= 32 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Survivor
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching HIGH ENVIRONMENT responder to Journey
+Dispatching HIGH ENVIRONMENT responder to Bon Jovi
+Dispatching HIGH MEDICAL responder to Chicago
+Dispatching HIGH ENVIRONMENT responder to Kansas
+Dispatching HIGH MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Survivor
+Dispatching MEDIUM MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Boston
+
+======= Processing requests for day 50
+======= 32 requests carried over from previous day
+Dispatching HIGH MEDICAL responder to Bon Jovi
+Dispatching HIGH VEHICLE responder to Alabama
+Dispatching HIGH MEDICAL responder to Boston
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Kansas
+Dispatching MEDIUM MEDICAL responder to Journey
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Boston
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW FACILITY responder to Bon Jovi
+Dispatching LOW FACILITY responder to Survivor
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW FACILITY responder to Alabama
+
+======= Processing requests for day 51
+======= 33 requests carried over from previous day
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW FACILITY responder to Boston
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW VEHICLE responder to Survivor
+Dispatching LOW VEHICLE responder to Alabama
+Dispatching LOW VEHICLE responder to Alabama
+
+======= Processing requests for day 52
+======= 18 requests carried over from previous day
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Kansas
+Dispatching LOW VEHICLE responder to Kansas
+Dispatching LOW VEHICLE responder to Bon Jovi
+Dispatching LOW FACILITY responder to Kansas
+
+======= Processing requests for day 53
+======= 11 requests carried over from previous day
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+
+======= Processing requests for day 54
+======= 8 requests carried over from previous day
+Dispatching LOW FACILITY responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+
+======= Processing requests for day 55
+======= 5 requests carried over from previous day
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago
+
+======= Processing requests for day 56
+======= 2 requests carried over from previous day
+Dispatching LOW VEHICLE responder to Chicago
+Dispatching LOW FACILITY responder to Chicago

@@ -1,0 +1,100 @@
+0: I have a flat tire. Please send help. You can find me at Kansas.
+1: I'm currently staying at Bon Jovi and my power is out.
+2: I live at Journey and my spouse is having trouble breathing.
+3: My son is having trouble breathing. I live at Alabama.
+4: My car broke. Please send help. You can find me at Chicago.
+5: My car won't start. Please send help. You can find me at Boston.
+6: I live at Chicago and my air conditioning stopped working.
+7: I'm in Survivor and my daughter passed out.
+8: My car is stalled. Please send help. You can find me at Journey.
+9: I'm in Survivor and my daughter passed out.
+10: I live at Alabama and there's a gigantic hole in the dome.
+11: My son is having a seizure. I'm at Kansas.
+12: I'm currently staying at Alabama and my pipes are leaking.
+13: My spouse fell and broke something. I'm at Alabama.
+14: I live at Alabama and I have a flat tire.
+15: I'm in Boston and my vehicle is dead.
+16: I'm in Kansas and my son fell and broke something.
+17: I'm currently staying at Alabama and my car won't start.
+18: I'm currently staying at Alabama and my power is out.
+19: I'm currently staying at Boston and my power is out.
+20: I'm in Journey and my vehicle is dead.
+21: I'm currently staying at Chicago and I broke a window.
+22: My son has a high fever. I'm in Survivor.
+23: I'm currently staying at Boston and the dome is falling down on all of us.
+24: I've had a car accident. Please send help. You can find me at Boston.
+25: I live at Bon Jovi and we've had a marsquake. Lava is coming out of the ground.
+26: My daughter is having trouble breathing. I'm currently staying at Alabama.
+27: I'm in Bon Jovi and my son fell and broke something.
+28: My spouse has a high fever. I live at Survivor.
+29: I'm currently staying at Bon Jovi and my son fell and broke something.
+30: I live at Kansas and my air conditioning stopped working.
+31: I'm currently staying at Survivor and I've had a car accident.
+32: I live at Journey and my spouse is having a seizure.
+33: I'm at Bon Jovi and my power is out.
+34: I'm currently staying at Alabama and my power is out.
+35: I'm currently staying at Bon Jovi and my spouse had an accident with a knife.
+36: My daughter is having a seizure. I live at Survivor.
+37: I live at Boston and my car is stalled.
+38: I've had a car accident. Please send help. You can find me at Boston.
+39: I've had a car accident. Please send help. You can find me at Alabama.
+40: I'm currently staying at Chicago and we've been struck by a meteorite.
+41: I'm in Boston and my car won't start.
+42: I'm currently staying at Chicago and my car is stalled.
+43: My daughter is having trouble breathing. I'm in Boston.
+44: My son has a high fever. I'm in Survivor.
+45: I'm currently staying at Survivor and my daughter passed out.
+46: I'm in Kansas and the dome is falling down on all of us.
+47: I'm currently staying at Alabama and my roof is leaking.
+48: I'm at Kansas and my son is having a seizure.
+49: I'm in Journey and my front door lock broke.
+50: I'm currently staying at Alabama and my daughter had an accident with a knife.
+51: I live at Boston and I have a flat tire.
+52: I'm in Alabama and my vehicle is stuck.
+53: I'm at Alabama and my air conditioning stopped working.
+54: I'm currently staying at Boston and my daughter has a high fever.
+55: My son is having a seizure. I'm in Alabama.
+56: I have a flat tire. Please send help. You can find me at Alabama.
+57: I'm currently staying at Kansas and my car broke.
+58: I'm at Kansas and my car is stalled.
+59: I live at Boston and I broke a window.
+60: I'm in Boston and I broke a window.
+61: My daughter is having trouble breathing. I live at Survivor.
+62: My daughter is having a seizure. I live at Boston.
+63: I'm at Survivor and the dome is falling down on all of us.
+64: I'm in Chicago and my son passed out.
+65: My son fell and broke something. I live at Survivor.
+66: I'm at Alabama and I've had a car accident.
+67: I'm currently staying at Journey and the dome is falling down on all of us.
+68: My vehicle is stuck. Please send help. You can find me at Journey.
+69: I live at Bon Jovi and my vehicle is dead.
+70: My spouse is having a seizure. I live at Alabama.
+71: I'm at Alabama and I broke a window.
+72: I live at Journey and my pipes are leaking.
+73: My spouse fell and broke something. I'm currently staying at Alabama.
+74: I'm at Chicago and I broke a window.
+75: I've had a car accident. Please send help. You can find me at Chicago.
+76: I'm currently staying at Boston and my roof is leaking.
+77: I'm in Alabama and we've been struck by a meteorite.
+78: I'm currently staying at Chicago and my daughter is having trouble breathing.
+79: My daughter is having a seizure. I live at Survivor.
+80: I'm in Journey and we've had a marsquake. Lava is coming out of the ground.
+81: I'm currently staying at Chicago and my vehicle is stuck.
+82: I'm in Kansas and there's a gigantic hole in the dome.
+83: I'm currently staying at Kansas and I have a flat tire.
+84: My spouse is having a seizure. I live at Kansas.
+85: I live at Survivor and my daughter passed out.
+86: My son is having trouble breathing. I'm currently staying at Boston.
+87: I'm at Chicago and my car won't start.
+88: My daughter is having trouble breathing. I'm at Alabama.
+89: I'm currently staying at Journey and my vehicle is stuck.
+90: I live at Chicago and my vehicle is dead.
+91: My son is having trouble breathing. I'm in Chicago.
+92: I'm at Alabama and the dome is falling down on all of us.
+93: My son fell and broke something. I'm currently staying at Chicago.
+94: I live at Journey and my spouse fell and broke something.
+95: I live at Bon Jovi and I have a flat tire.
+96: I live at Alabama and my vehicle is stuck.
+97: I live at Journey and my front door lock broke.
+98: My vehicle is dead. Please send help. You can find me at Survivor.
+99: I'm at Boston and my front door lock broke.
